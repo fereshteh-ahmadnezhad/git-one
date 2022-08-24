@@ -1,6 +1,8 @@
 r=[]
 n=0
-while n<31:  #تعداد روز های ماهی که قرار است  مشاوره بدهد
+while n<31:  #The number of days of the month that he is going to give advice(masculine)
+
+Searc
     print('r=',r)
     date=int(input('enter a date :[1,30]'))
 
